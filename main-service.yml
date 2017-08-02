@@ -1,3 +1,5 @@
+greeting:"메인서버에 오신걸 환영합니다."
+---
 spring:
 	profiles:stage
 greeting:"스테이지 서버에 오신걸 환영합니다."
