@@ -1,13 +1,13 @@
 greeting:"메인서버에 오신걸 환영합니다."
 ---
 spring:
-	profiles:stage
+ profiles:stage
 greeting:"스테이지 서버에 오신걸 환영합니다."
 ---
 spring:
-	profiles:dev
+ profiles:dev
 greeting:"개발 서버에 오신걸 환영합니다."
 ---
 spring:
-	profiles:live
+ profiles:live
 greeting:"라이브 서버에 오신걸 환영합니다."
