@@ -1,0 +1,3 @@
+application :
+  name : "account-service"
+  greeting : "hi this is account-service stage"
