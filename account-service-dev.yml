@@ -1,3 +1,5 @@
-application :
-  name : "account-service"
-  greeting : "hi this is account-service dev"
+spring:
+  profiles: account
+  
+name : "account-service"
+greeting : "hi this is account-service dev"
