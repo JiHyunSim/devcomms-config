@@ -1,6 +1,2 @@
-spring:
-  profiles: account-stage
-
-
 name : "account-service"
 greeting : "hi this is account-service stage"
