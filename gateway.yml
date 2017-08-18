@@ -1,10 +1,10 @@
 zuul:
   routes:
     dev:
-      path: /dev/**
+      path: /dev/api/**
       url: http://datanode1:8090
     stage:
-      path: /stage/**
+      path: /stage/api/**
       url: http://datanode2:8090
     live:
       path: /api/**
