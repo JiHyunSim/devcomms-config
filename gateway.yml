@@ -9,3 +9,6 @@ zuul:
     live:
       path: /api/**
       url: http://datanode3:8090
+    test:
+      path: /test/**
+      url: http://datanode3:8090
