@@ -5,4 +5,7 @@ zuul:
       url: http://datanode1:8090
     stage:
       path: stage/**
-      url: http://datanode2:8090      
+      url: http://datanode2:8090
+    live:
+      path: /**
+      url: http://datanode3:8090
