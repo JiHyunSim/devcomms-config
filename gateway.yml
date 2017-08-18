@@ -5,8 +5,4 @@ zuul:
       url: http://datanode1:8090
     stage:
       path: stage/**
-<<<<<<< HEAD
       url: http://datanode2:8090      
-=======
-      url: http://datanode2:8090
->>>>>>> da3047d0a3c827acc5e50c751b0cd71fe0f7bcf8
