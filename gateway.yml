@@ -10,5 +10,5 @@ zuul:
       path: /api/**
       url: http://datanode3:8090
     test:
-      path: /test/**
+      path: /new/**
       url: http://datanode3:8090
