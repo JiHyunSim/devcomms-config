@@ -1,0 +1,3 @@
+app:
+  name: "ConfigClient"
+  desc: "Restful Web Application with Spring cloud config client."
