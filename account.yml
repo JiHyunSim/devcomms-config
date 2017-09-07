@@ -6,7 +6,7 @@ zuul:
 service:
   stage: http://localhost:18080
   live: http://localhost:28080
-  nodes: [http://localhost:18080,http://localhost:28080,http://localhost:28080,http://localhost:28080,http://localhost:28080,http://localhost:28080,http://localhost:28080,http://localhost:28080,http://localhost:28080]
+  nodes: ["http://localhost:18080","http://localhost:28080","http://localhost:28080","http://localhost:28080","http://localhost:28080","http://localhost:28080","http://localhost:28080","http://localhost:28080","http://localhost:28080"]
     
     
   
