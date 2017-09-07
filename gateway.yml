@@ -10,5 +10,5 @@ zuul:
       path: /test/**
       url: http://datanode3:8090
     service-user:
-      path: /api/**
+      path: /account/**
       url: http://localhost:28080
