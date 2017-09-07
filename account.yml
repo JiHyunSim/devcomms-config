@@ -1,0 +1,5 @@
+zuul:
+  routes:
+    account:
+      path: /account/**
+      url: http://localhost:28080
