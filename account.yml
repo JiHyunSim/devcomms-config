@@ -3,6 +3,9 @@ zuul:
     account:
       path: /account/**
       url: http://localhost:28080
+    service:
+      path: /service/**
+      url: http://localhost:28080
 service:
   stage: http://localhost:18080
   live: http://localhost:28080
