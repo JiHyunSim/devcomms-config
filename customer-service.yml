@@ -2,7 +2,5 @@ logging:
   level:
     com.skcomms.springcloud: DEBUG
 
-server:
-  port: 8090
-  
+
 
