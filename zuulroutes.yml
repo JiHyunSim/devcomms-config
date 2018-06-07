@@ -5,3 +5,6 @@ zuul:
       path: /customer/**
       service-id: customer-service
       strip-prefix: false
+    google:
+      path: /google/**
+      url : https://google.com
